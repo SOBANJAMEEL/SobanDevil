@@ -38,7 +38,7 @@ global.APIKeys = {
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -56,16 +56,16 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['923135456545'] //ur owner number
 global.ownername = "S O B A N" //ur owner name
-global.ytname = "YT:UMAR MODS" //ur yt chanel name
-global.socialm = "GitHub: Umar" //ur github or insta name
+global.ytname = "YT:SOBAN OFC" //ur yt chanel name
+global.socialm = "GitHub: SOBANJAMEEL" //ur github or insta name
 global.location = "Pakistan, Islamabad, Rawalpindi" //ur location
 
 //bot bomdy 
 global.owner = ['wa.me/+923135456545']
 global.ownertag = '923135456545' //ur tag number
-global.botname = 'DEVIL Bot MD V4' //ur bot name
-global.linkz = "https://chat.whatsapp.com/DZcLWaRPgEs1wqAdC4YJzR" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.youtube.com/c/UMARMODS" //ur website to be displayed
+global.botname = 'Cyber Bot' //ur bot name
+global.linkz = "https://https://chat.whatsapp.com/BxvlXJIsDmo1XNVHSEKxTV" //your theme url which will be displayed on whatsapp
+global.websitex = "https://https://youtube.com/channel/UC9SBtRnAadzBtEVpu_RQqdA" //ur website to be displayed
 global.botscript = 'https://wa.me/+923135456545/' //script link
 global.reactmoji = "😈" //ur menu react emoji
 global.themeemoji = "S O B A N" //ur theme emoji
